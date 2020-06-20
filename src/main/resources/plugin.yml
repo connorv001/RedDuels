@@ -1,4 +1,4 @@
-name: RedDuels
+name: ConnorDuels
 version: ${project.version}
 main: com.github.radagastthered.redduels.redduels.RedDuels
 api-version: 1.15
